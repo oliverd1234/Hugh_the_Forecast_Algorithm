@@ -1,0 +1,11 @@
+C:\Users\oliverd\source\repositories\Forecast_Algorithm\Forecast_Algorithm.Library\bin\Debug\netcoreapp2.1\Forecast_Algorithm.Library.deps.json
+C:\Users\oliverd\source\repositories\Forecast_Algorithm\Forecast_Algorithm.Library\bin\Debug\netcoreapp2.1\Forecast_Algorithm.Library.runtimeconfig.json
+C:\Users\oliverd\source\repositories\Forecast_Algorithm\Forecast_Algorithm.Library\bin\Debug\netcoreapp2.1\Forecast_Algorithm.Library.runtimeconfig.dev.json
+C:\Users\oliverd\source\repositories\Forecast_Algorithm\Forecast_Algorithm.Library\bin\Debug\netcoreapp2.1\Forecast_Algorithm.Library.dll
+C:\Users\oliverd\source\repositories\Forecast_Algorithm\Forecast_Algorithm.Library\bin\Debug\netcoreapp2.1\Forecast_Algorithm.Library.pdb
+C:\Users\oliverd\source\repositories\Forecast_Algorithm\Forecast_Algorithm.Library\obj\Debug\netcoreapp2.1\Forecast_Algorithm.Library.csprojAssemblyReference.cache
+C:\Users\oliverd\source\repositories\Forecast_Algorithm\Forecast_Algorithm.Library\obj\Debug\netcoreapp2.1\Forecast_Algorithm.Library.csproj.CoreCompileInputs.cache
+C:\Users\oliverd\source\repositories\Forecast_Algorithm\Forecast_Algorithm.Library\obj\Debug\netcoreapp2.1\Forecast_Algorithm.Library.AssemblyInfoInputs.cache
+C:\Users\oliverd\source\repositories\Forecast_Algorithm\Forecast_Algorithm.Library\obj\Debug\netcoreapp2.1\Forecast_Algorithm.Library.AssemblyInfo.cs
+C:\Users\oliverd\source\repositories\Forecast_Algorithm\Forecast_Algorithm.Library\obj\Debug\netcoreapp2.1\Forecast_Algorithm.Library.dll
+C:\Users\oliverd\source\repositories\Forecast_Algorithm\Forecast_Algorithm.Library\obj\Debug\netcoreapp2.1\Forecast_Algorithm.Library.pdb
